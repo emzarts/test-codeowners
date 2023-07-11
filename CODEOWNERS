@@ -1,2 +1,4 @@
 /*.* @emzarts
 test2/*.* @emzarts
+
+owned-file.txt @emzarts
